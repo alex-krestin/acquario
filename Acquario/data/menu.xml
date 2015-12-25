@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content>
+	<page id="2">
+		<title>Acquario</title>
+		<intro></intro>
+		<menu>
+			<label>Scegliere l'acquario</label>
+			<image>data/menu/acquario.jpg</image>
+			<link>5</link>
+		</menu>
+		<menu>
+			<label>La vasca</label>
+			<image>data/menu/vasca.jpg</image>
+			<link>4</link>
+		</menu>	
+		<menu>
+			<label>Dotazione tecnica di base</label>
+			<image>data/menu/dotazione_tecnica.jpg</image>
+			<link>6</link>
+		</menu>	
+		<menu>
+			<label>L'acqua</label>
+			<image>data/menu/acqua.jpg</image>
+			<link>3</link>
+		</menu>	
+		<menu>
+			<label>Il fondo e l'arredamento</label>
+			<image>data/menu/fondo.jpg</image>
+			<link>7</link>
+		</menu>	
+		<menu>
+			<label>Allestimento e gestione</label>
+			<image>data/menu/allestimento.jpg</image>
+			<link>8</link>
+		</menu>	
+	</page>
+	
+	<page id="3">
+		<title>L'acqua</title>
+		<intro></intro>
+		<menu>
+			<label>Il pH</label>
+			<image>data/menu/ph.jpg</image>
+			<link>21</link>
+		</menu>
+		<menu>
+			<label>La durezza</label>
+			<image>data/menu/durezza.jpg</image>
+			<link>22</link>
+		</menu>	
+		<menu>
+			<label>La conduttività</label>
+			<image>data/menu/conduttivita.jpg</image>
+			<link>23</link>
+		</menu>	
+		<menu>
+			<label>Ioni e composti</label>
+			<image>data/menu/ioni.jpg</image>
+			<link>24</link>
+		</menu>	
+		<menu>
+			<label>Oligominerali</label>
+			<image>data/menu/oligominerali.jpg</image>
+			<link>25</link>
+		</menu>	
+		<menu>
+			<label>Osmosi inversa</label>
+			<image>data/menu/osmosi.jpg</image>
+			<link>26</link>
+		</menu>	
+	</page>	
+	
+	<page id="4">
+		<title>La vasca</title>
+		<intro></intro>
+		<menu>
+			<label>Le diverse forme</label>
+			<image>data/menu/forme_vasca.jpg</image>
+			<link>15</link>
+		</menu>
+		<menu>
+			<label>I materiali</label>
+			<image>data/menu/materiale.jpg</image>
+			<link>16</link>
+		</menu>	
+		<menu>
+			<label>Calcolo del volume</label>
+			<image>data/menu/volume.jpg</image>
+			<link>17</link>
+		</menu>	
+		<menu>
+			<label>Vasche aperte o chiuse</label>
+			<image>data/menu/vasca_aperta.jpg</image>
+			<link>18</link>
+		</menu>	
+	</page>
+	
+	<page id="5">
+		<title>Scegliere l'acquario</title>
+		<intro>
+		Fino a non molti anni fa, l’acquario d’acqua dolce veniva unanimemente consigliato a chi si accostava per la prima volta all’hobby dell’acquariofilia. L’acquario marino era infatti considerato come una sorta di punto d’arrivo, il massimo a cui si potesse aspirare dopo aver fatto la necessaria gavetta. Oggi, grazie agli enormi progressi della tecnologia acquaristica, la distinzione, almeno in termini di esperienza, tra dolce "facile" e marino "difficile" si è fatta molto più sfumata.</intro>
+		<menu>
+			<label>Acquario d'acqua dolce</label>
+			<image>data/menu/acqua_dolce.jpg</image>
+			<link>13</link>
+		</menu>
+		<menu>
+			<label>Acquario d'acqua marina</label>
+			<image>data/menu/acqua_marina.jpg</image>
+			<link>14</link>
+		</menu>	
+	</page>	
+	
+	<page id="6">
+		<title>Dotazione tecnica di base</title>
+		<intro>
+		Il grande etologo Konrad Lorenz sosteneva che l’acquario dev’essere del tutto naturale, privo cioè di qualsiasi accessorio. Una tesi affascinante, ma un po’ troppo semplicistica: un acquario privo di un minimo di attrezzatura tecnica è molto più impegnativo da gestire e può ospitare solo un numero limitato di pesci o invertebrati.</intro>
+		<menu>
+			<label>Acquario d'acqua dolce</label>
+			<image>data/menu/acqua_dolce.jpg</image>
+			<link>19</link>
+		</menu>
+		<menu>
+			<label>Acquario d'acqua marina</label>
+			<image>data/menu/acqua_marina.jpg</image>
+			<link>20</link>
+		</menu>	
+	</page>
+	
+	<page id="7">
+		<title>Il fondo e arredamento</title>
+		<intro>Un acquario "nudo", privo cioè di sabbia e di arredamento, non è concepibile. Fondo e arredamento non hanno solo la funzione di abbelire l’acquario o di fornire ai suoi abitanti un’ambientazione naturale, favorendone così l’acclimatazione: in diversi casi essi contribuiscono attivamente a mantenere il sistema in condizioni ottimali, agendo sull’acqua e sui complessi fenomeni biochimici ad essa correlati.</intro>
+		<menu>
+			<label>Acquario d'acqua dolce</label>
+			<image>data/menu/acqua_dolce.jpg</image>
+			<link>27</link>
+		</menu>
+		<menu>
+			<label>Acquario d'acqua marina</label>
+			<image>data/menu/acqua_marina.jpg</image>
+			<link>28</link>
+		</menu>	
+	</page>	
+	
+	<page id="8">
+		<title>Allestimento e gestione</title>
+		<intro>Finalmente l’acquario è arrivato a casa nostra. È ancora imballalo e dobbiamo posizionarlo, riempirlo e metterlo in funzione. Sono i primi passi della vasca, i più importanti ma anche i più sottovalutati, spesso per la fretta di godersi l’acquario con le piante e i pesci con cui lo popoleremo.</intro>
+		<menu>
+			<label>Acquario d'acqua dolce</label>
+			<image>data/menu/acqua_dolce.jpg</image>
+			<link>29</link>
+		</menu>
+		<menu>
+			<label>Acquario d'acqua marina</label>
+			<image>data/menu/acqua_marina.jpg</image>
+			<link>30</link>
+		</menu>
+	</page>	
+	
+	<page id="9">
+		<title>Le piante</title>
+		<intro>Le piante, oltre a svolgere un’indubbia funzione estetica, partecipano attivamente all’equilibrio biochimico che si deve necessariamente instaurare nell’acquario, costituendo al contempo l’ambiente idoneo allo sviluppo, al mantenimento e alla riproduzione dei pesci.</intro>
+		<menu>
+			<label>La scelta e la posizione</label>
+			<image>data/menu/piante.jpg</image>
+			<link>31</link>
+		</menu>
+		<menu>
+			<label>La fertilizzazione</label>
+			<image>data/menu/fertilizzazione.jpg</image>
+			<link>32</link>
+		</menu>	
+	</page>	
+	
+	<page id="10">
+		<title>Gli invertebrati</title>
+		<intro>Pesci e piante sono i veri protagonisti dell’acquario d’acqua dolce, tuttavia negli ultimi anni gli invertebrati hanno conquistato una crescente popolarità, divenendo sempre più frequenti nelle vasche dei negozi, tanto più che spesso sono utili spazzini o mangia-alghe.</intro>
+		<menu>
+			<label>Acqua dolce</label>
+			<image>data/menu/invertebrati_acqua_dolce.jpg</image>
+			<link>37</link>
+		</menu>
+		<menu>
+			<label>Acqua marina</label>
+			<image>data/menu/invertebrati_acqua_marina.jpg</image>
+			<link>38</link>
+		</menu>	
+	</page>	
+	
+	<page id="11">
+		<title>Pesci d'acqua dolce</title>
+		<intro></intro>
+		<menu>
+			<label>Guida all'acquisto</label>
+			<image>data/menu/acquisto.jpg</image>
+			<link>33</link>
+		</menu>
+		<menu>
+			<label>L'alimentazione</label>
+			<image>data/menu/alimentazione.jpg</image>
+			<link>34</link>
+		</menu>
+		<menu>
+			<label>Catalogo dei pesci</label>
+			<image>data/menu/acqua_dolce.jpg</image>
+			<link>39</link>
+		</menu>
+	</page>	
+	
+	<page id="12">
+		<title>Pesci d'acqua marina</title>
+		<intro></intro>
+		<menu>
+			<label>Guida all'acquisto</label>
+			<image>data/menu/acquisto2.jpg</image>
+			<link>35</link>
+		</menu>
+		<menu>
+			<label>L'alimentazione</label>
+			<image>data/menu/alimentazione2.jpg</image>
+			<link>36</link>
+		</menu>
+		<menu>
+			<label>Catalogo dei pesci</label>
+			<image>data/menu/acqua_marina.jpg</image>
+			<link>77</link>
+		</menu>
+	</page>	
+	
+</content>

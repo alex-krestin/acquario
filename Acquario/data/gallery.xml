@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gallery columns="5" xposition="222" yposition="250" width="100" height="75">
+<image full="data/gallery/full_images/1.jpg" thumb="data/gallery/thumbs/1.jpg" />
+<image full="data/gallery/full_images/2.jpg" thumb="data/gallery/thumbs/2.jpg" />
+<image full="data/gallery/full_images/3.jpg" thumb="data/gallery/thumbs/3.jpg" />
+<image full="data/gallery/full_images/4.jpg" thumb="data/gallery/thumbs/4.jpg" />
+<image full="data/gallery/full_images/5.jpg" thumb="data/gallery/thumbs/5.jpg" />
+<image full="data/gallery/full_images/6.jpg" thumb="data/gallery/thumbs/6.jpg" />
+<image full="data/gallery/full_images/7.jpg" thumb="data/gallery/thumbs/7.jpg" />
+<image full="data/gallery/full_images/8.jpg" thumb="data/gallery/thumbs/8.jpg" />
+<image full="data/gallery/full_images/9.jpg" thumb="data/gallery/thumbs/9.jpg" />
+<image full="data/gallery/full_images/10.jpg" thumb="data/gallery/thumbs/10.jpg" />
+<image full="data/gallery/full_images/11.jpg" thumb="data/gallery/thumbs/11.jpg" />
+<image full="data/gallery/full_images/12.jpg" thumb="data/gallery/thumbs/12.jpg" />
+<image full="data/gallery/full_images/13.jpg" thumb="data/gallery/thumbs/13.jpg" />
+<image full="data/gallery/full_images/14.jpg" thumb="data/gallery/thumbs/14.jpg" />
+<image full="data/gallery/full_images/15.jpg" thumb="data/gallery/thumbs/15.jpg" />
+<image full="data/gallery/full_images/16.jpg" thumb="data/gallery/thumbs/16.jpg" />
+<image full="data/gallery/full_images/17.jpg" thumb="data/gallery/thumbs/17.jpg" />
+<image full="data/gallery/full_images/18.jpg" thumb="data/gallery/thumbs/18.jpg" />
+<image full="data/gallery/full_images/19.jpg" thumb="data/gallery/thumbs/19.jpg" />
+<image full="data/gallery/full_images/20.jpg" thumb="data/gallery/thumbs/20.jpg" />
+<image full="data/gallery/full_images/21.jpg" thumb="data/gallery/thumbs/21.jpg" />
+<image full="data/gallery/full_images/22.jpg" thumb="data/gallery/thumbs/22.jpg" />
+<image full="data/gallery/full_images/23.jpg" thumb="data/gallery/thumbs/23.jpg" />
+<image full="data/gallery/full_images/24.jpg" thumb="data/gallery/thumbs/24.jpg" />
+<image full="data/gallery/full_images/25.jpg" thumb="data/gallery/thumbs/25.jpg" />
+</gallery>
